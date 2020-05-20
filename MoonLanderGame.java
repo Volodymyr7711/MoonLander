@@ -1,4 +1,3 @@
-package com.javarush.games.moonlander;
 
 import com.javarush.engine.cell.*;
 
